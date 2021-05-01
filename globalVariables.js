@@ -1,5 +1,4 @@
 
-
 const currentDirectory = __dirname;
 console.log(currentDirectory);
 
