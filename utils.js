@@ -12,4 +12,5 @@ setTimeout(() => {
 
 //local module
 //global module
-//party / package module
+//3rd 
+party / package module
